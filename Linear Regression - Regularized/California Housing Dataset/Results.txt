@@ -1,0 +1,47 @@
+Linear - 1
+
+Test RMSE: 68780.07
+Test R² Score: 0.6396
+
+Train RMSE: 68763.97
+Train R² Score: 0.6470
+
+Linear - 2 
+
+Test RMSE: 68016.25
+Test R² Score: 0.6475
+
+Train RMSE: 67914.73
+Train R² Score: 0.6557
+
+Linear - 3
+
+Test RMSE: 70519.34
+Test R² Score: 0.6211
+
+Train RMSE: 70383.91
+Train R² Score: 0.6302
+
+Linear - 4
+
+Test RMSE: 92930.32
+Test R² Score: 0.3420
+
+Train RMSE: 93345.42
+Train R² Score: 0.3496
+
+Regularized
+
+-- Ridge --
+Test RMSE: 70519.12
+Test R² Score: 0.6211
+
+Train RMSE: 70383.91
+Train R² Score: 0.6302
+
+-- Lasso --
+Test RMSE: 70519.33
+Test R² Score: 0.6211
+
+Train RMSE: 70383.91
+Train R² Score: 0.6302
